@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenue sur mon profil 👋
 
 <!--
 **BrianEpaud/BrianEPaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/BrianEpaud/BrianEpaud/master/img/cover.jpg)
+![Cover](https://github.com/BrianEpaud/BrianEpaud/blob/master/img/cover.jpg)
